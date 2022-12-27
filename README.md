@@ -20,4 +20,4 @@
  
  
  ## apk file download
-  * [Hostel-Debt-Book.apk](Hostel_Debt_Book)
+  * [Hostel-Debt-Book.apk](Hostel_Debt_Book) Click "View raw".
