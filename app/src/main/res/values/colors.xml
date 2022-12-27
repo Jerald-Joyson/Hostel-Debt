@@ -8,7 +8,12 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="colorGreen">#96c896</color>
-    <color name="colorWhite">#ACA7A7</color>
-    <color name="colorbrown">#731212</color>
+    <color name="colorGrey">#A1A1A1</color>
     <color name="colorLGold">#FFFBED</color>
+    <color name="colorRed">#F44336</color>
+    <color name="colorOrange">#FF9800</color>
+    <color name="colorBlue">#00B0FF</color>
+    <color name="colorLBlue">#3000B0FF</color>
+    <color name="colorGold">#967424</color>
+
 </resources>
