@@ -56,7 +56,7 @@
                 android:padding="8sp"
                 android:backgroundTint="@color/colorGrey"
                 android:text="H"
-                android:textColor="#FFFFFF"
+                android:textColor="@color/white"
                 app:cornerRadius="35dp" />
         </TableRow>
 
@@ -69,7 +69,7 @@
                 android:gravity="center_horizontal"
                 android:padding="8sp"
                 android:text="Individual"
-                android:textColor="#000000"
+                android:textColor="@color/black"
                 android:textSize="20sp"
                 android:textStyle="bold" />
         </TableRow>
@@ -85,7 +85,7 @@
                 android:gravity="center_horizontal"
                 android:padding="8sp"
                 android:text="@string/col2"
-                android:textColor="#000000"
+                android:textColor="@color/black"
                 android:textSize="16sp" />
 
             <EditText
@@ -99,7 +99,7 @@
                 android:hint="0"
                 android:inputType="number|numberDecimal"
                 android:text="0"
-                android:textColor="#000000"
+                android:textColor="@color/black"
                 android:textSize="16sp" />
 
             <TextView
@@ -111,7 +111,7 @@
                 android:gravity="center_horizontal"
                 android:padding="8sp"
                 android:text="@string/col3"
-                android:textColor="#000000"
+                android:textColor="@color/black"
                 android:textSize="16sp" />
 
             <EditText
@@ -124,7 +124,7 @@
                 android:hint="0"
                 android:inputType="number|numberDecimal"
                 android:text="0"
-                android:textColor="#000000"
+                android:textColor="@color/black"
                 android:textSize="16sp" />
         </TableRow>
 
@@ -142,7 +142,7 @@
                 android:layout_marginRight="10dp"
                 android:layout_marginLeft="20dp"
                 android:text="+"
-                android:textColor="#FFFFFF"
+                android:textColor="@color/white"
                 app:cornerRadius="30dp" />
 
             <Button
@@ -156,7 +156,7 @@
                 android:padding="8sp"
                 android:backgroundTint="@color/colorGrey"
                 android:text="-"
-                android:textColor="#FFFFFF"
+                android:textColor="@color/white"
                 app:cornerRadius="30dp" />
 
             <Button
@@ -170,7 +170,7 @@
                 android:padding="8sp"
                 android:backgroundTint="@color/colorOrange"
                 android:text="+"
-                android:textColor="#FFFFFF"
+                android:textColor="@color/white"
                 app:cornerRadius="30dp" />
 
             <Button
@@ -184,7 +184,7 @@
                 android:padding="8sp"
                 android:backgroundTint="@color/colorGrey"
                 android:text="-"
-                android:textColor="#FFFFFF"
+                android:textColor="@color/white"
                 app:cornerRadius="30dp" />
         </TableRow>
 
@@ -199,7 +199,7 @@
                 android:gravity="center_horizontal"
                 android:padding="8sp"
                 android:text="@string/col4"
-                android:textColor="#000000"
+                android:textColor="@color/black"
                 android:textSize="16sp" />
 
             <EditText
@@ -213,7 +213,7 @@
                 android:hint="0"
                 android:inputType="number|numberDecimal"
                 android:text="0"
-                android:textColor="#000000"
+                android:textColor="@color/black"
                 android:textSize="16sp" />
 
             <TextView
@@ -225,7 +225,7 @@
                 android:layout_marginLeft="15dp"
                 android:padding="8sp"
                 android:text="@string/col5"
-                android:textColor="#000000"
+                android:textColor="@color/black"
                 android:textSize="16sp" />
 
             <EditText
@@ -238,7 +238,7 @@
                 android:hint="0"
                 android:inputType="number|numberDecimal"
                 android:text="0"
-                android:textColor="#000000"
+                android:textColor="@color/black"
                 android:textSize="16sp" />
         </TableRow>
 
@@ -257,7 +257,7 @@
                 android:layout_marginRight="10dp"
                 android:layout_marginLeft="20dp"
                 android:text="+"
-                android:textColor="#FFFFFF"
+                android:textColor="@color/white"
                 app:cornerRadius="30dp" />
 
             <Button
@@ -271,7 +271,7 @@
                 android:padding="8sp"
                 android:backgroundTint="@color/colorGrey"
                 android:text="-"
-                android:textColor="#FFFFFF"
+                android:textColor="@color/white"
                 app:cornerRadius="30dp" />
 
             <Button
@@ -285,7 +285,7 @@
                 android:padding="8sp"
                 android:backgroundTint="@color/colorOrange"
                 android:text="+"
-                android:textColor="#FFFFFF"
+                android:textColor="@color/white"
                 app:cornerRadius="30dp" />
 
             <Button
@@ -299,7 +299,7 @@
                 android:padding="8sp"
                 android:backgroundTint="@color/colorGrey"
                 android:text="-"
-                android:textColor="#FFFFFF"
+                android:textColor="@color/white"
                 app:cornerRadius="30dp" />
         </TableRow>
 
@@ -312,7 +312,7 @@
                 android:gravity="center_horizontal"
                 android:padding="8sp"
                 android:text="Group"
-                android:textColor="#000000"
+                android:textColor="@color/black"
                 android:textSize="20sp"
                 android:textStyle="bold" />
         </TableRow>
@@ -328,7 +328,7 @@
                 android:gravity="center_horizontal"
                 android:padding="8sp"
                 android:text="Amount :"
-                android:textColor="#000000"
+                android:textColor="@color/black"
                 android:textSize="16sp" />
 
             <EditText
@@ -341,7 +341,7 @@
                 android:hint="0"
                 android:inputType="number|numberDecimal"
                 android:text="0"
-                android:textColor="#000000"
+                android:textColor="@color/black"
                 android:textSize="16sp" />
         </TableRow>
 
@@ -360,7 +360,7 @@
                 android:layout_marginRight="10dp"
                 android:layout_marginLeft="20dp"
                 android:text="+"
-                android:textColor="#FFFFFF"
+                android:textColor="@color/white"
                 app:cornerRadius="30dp" />
 
             <Button
@@ -374,7 +374,7 @@
                 android:padding="8sp"
                 android:backgroundTint="@color/colorGrey"
                 android:text="-"
-                android:textColor="#FFFFFF"
+                android:textColor="@color/white"
                 app:cornerRadius="30dp" />
         </TableRow>
 
@@ -387,7 +387,7 @@
                 android:gravity="center_horizontal"
                 android:padding="8sp"
                 android:text="Amount"
-                android:textColor="#000000"
+                android:textColor="@color/black"
                 android:textSize="20sp"
                 android:textStyle="bold" />
         </TableRow>
@@ -403,7 +403,7 @@
                 android:gravity="center_horizontal"
                 android:padding="8sp"
                 android:text="@string/col2"
-                android:textColor="#000000"
+                android:textColor="@color/black"
                 android:textSize="16sp" />
 
             <TextView
@@ -415,7 +415,7 @@
                 android:padding="8sp"
                 android:hint="0"
                 android:text="0"
-                android:textColor="#000000"
+                android:textColor="@color/black"
                 android:textSize="16sp" />
 
             <TextView
@@ -426,7 +426,7 @@
                 android:gravity="center_horizontal"
                 android:padding="8sp"
                 android:text="@string/col3"
-                android:textColor="#000000"
+                android:textColor="@color/black"
                 android:textSize="16sp" />
 
             <TextView
@@ -438,7 +438,7 @@
                 android:padding="8sp"
                 android:hint="0"
                 android:text="0"
-                android:textColor="#000000"
+                android:textColor="@color/black"
                 android:textSize="16sp" />
         </TableRow>
 
@@ -453,7 +453,7 @@
                 android:gravity="center_horizontal"
                 android:padding="8sp"
                 android:text="@string/col4"
-                android:textColor="#000000"
+                android:textColor="@color/black"
                 android:textSize="16sp" />
 
             <TextView
@@ -465,7 +465,7 @@
                 android:padding="8sp"
                 android:hint="0"
                 android:text="0"
-                android:textColor="#000000"
+                android:textColor="@color/black"
                 android:textSize="16sp" />
 
             <TextView
@@ -476,7 +476,7 @@
                 android:gravity="center_horizontal"
                 android:padding="8sp"
                 android:text="@string/col5"
-                android:textColor="#000000"
+                android:textColor="@color/black"
                 android:textSize="16sp" />
 
             <TextView
@@ -488,7 +488,7 @@
                 android:padding="8sp"
                 android:hint="0"
                 android:text="0"
-                android:textColor="#000000"
+                android:textColor="@color/black"
                 android:textSize="16sp" />
         </TableRow>
 
@@ -506,7 +506,7 @@
                 android:padding="8sp"
                 android:backgroundTint="@color/colorGold"
                 android:text="save data"
-                android:textColor="#FFFFFF" />
+                android:textColor="@color/white" />
         </TableRow>
 
         <TableRow
@@ -522,7 +522,7 @@
                 android:padding="8sp"
                 android:backgroundTint="@color/colorGrey"
                 android:text="C"
-                android:textColor="#FFFFFF"
+                android:textColor="@color/white"
                 app:cornerRadius="35dp" />
 
 
