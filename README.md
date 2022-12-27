@@ -20,4 +20,4 @@
  
  
  ## apk file download
-  * [Hostel-Debt-Book.apk](Hostel-Debt-Book.zip).
+  * [Hostel-Debt-Book.apk](Hostel_Debt_Book).
