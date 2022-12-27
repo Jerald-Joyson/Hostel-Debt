@@ -1,10 +1,10 @@
 <resources>
     <string name="app_name">H-P-B</string>
     <string name="col1">Date/Time</string>
-    <string name="col2">Adithya :</string>
-    <string name="col3">Aswn :</string>
-    <string name="col4">Bavin :</string>
-    <string name="col5">Jerald :</string>
+    <string name="col2">Person1 :</string>
+    <string name="col3">Person2 :</string>
+    <string name="col4">Person3 :</string>
+    <string name="col5">Person4 :</string>
     <string-array name="OS_name">
         <item>Check the box, If it is Sure.</item>
     </string-array>
