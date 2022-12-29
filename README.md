@@ -22,3 +22,15 @@
  
  ## apk file download
   * [Hostel-Debt-Book.apk](Hostel_Debt_Book) Click "View raw".
+
+# Screenshots 
+
+![IstImg](https://user-images.githubusercontent.com/121479325/209917961-6af7fc7e-0ed7-456f-8180-6bbb7f55cf44.jpg)
+![2ndImg](https://user-images.githubusercontent.com/121479325/209918098-9e4e5ce9-2645-4298-af94-f95f4b91b39e.jpg)
+![note1](https://user-images.githubusercontent.com/121479325/209918605-ad1c590b-baeb-4597-8497-f7bb0c47eef5.jpg)
+![note2](https://user-images.githubusercontent.com/121479325/209918618-b92be2c7-f16e-42d5-8093-299975991b98.jpg)
+![note3](https://user-images.githubusercontent.com/121479325/209918627-8bc9ece3-292b-414d-870c-d74d0144dbde.jpg)
+![calc1](https://user-images.githubusercontent.com/121479325/209918643-1d253295-73ac-44fb-83e4-6064fad2dbfd.jpg)
+![history1](https://user-images.githubusercontent.com/121479325/209918672-1994df84-8175-4f8f-ac38-2273930b871b.jpg)
+![history2](https://user-images.githubusercontent.com/121479325/209918696-b04b3db9-bdeb-409a-91e1-440442defc3a.jpg)
+![clear1](https://user-images.githubusercontent.com/121479325/209918725-a25793be-5280-4445-8d8a-7faaf4232b3b.jpg)
