@@ -5,11 +5,12 @@
   Easy to calcuate mess bill There is a in build calculator for simple Calculations.. There is a notepad for writing important notes.. This app also contains data saving in a txt file
 
 # Disadvantages
-  This app can be process 4 hostellers(Person1, Person2, person3, person4) only
+  This app can be process 4 hostellers(Person1, Person2, person3, person4)
 
 # Steps
  * Install the app
  * click "SAVE DATA" button and allow permission to access the storage to save the txt file after completing your inserts and before closing the app you must click "SAVE DATA" button
+ * And also you can change the name(Person1, Person2, person3, person4) in the string.xml file in values
 
  The initial step is commpleted
 
