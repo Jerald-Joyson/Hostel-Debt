@@ -25,28 +25,20 @@
 
 # SCREENSHOTS 
 
-![IstImg](https://user-images.githubusercontent.com/121479325/209917961-6af7fc7e-0ed7-456f-8180-6bbb7f55cf44.jpg)
+![IstImg](https://user-images.githubusercontent.com/121479325/209921357-cb236ef3-8ada-4dd6-bac8-a3b81b84aa92.jpg) ![2ndImg](https://user-images.githubusercontent.com/121479325/209921340-d790f72a-38a1-47b7-90f3-1076b2e1805b.jpg)
 
-![2ndImg (2)](https://user-images.githubusercontent.com/121479325/209920927-d9df23ef-e260-47c9-a404-b61da85128e4.jpg)
 # NOTEPAD 
 
-![note1](https://user-images.githubusercontent.com/121479325/209918605-ad1c590b-baeb-4597-8497-f7bb0c47eef5.jpg)
-
-![note2](https://user-images.githubusercontent.com/121479325/209918618-b92be2c7-f16e-42d5-8093-299975991b98.jpg)
-
-![note3](https://user-images.githubusercontent.com/121479325/209918627-8bc9ece3-292b-414d-870c-d74d0144dbde.jpg)
+![note1](https://user-images.githubusercontent.com/121479325/209921400-f417f1cf-c0c0-43c5-afbf-6788e08d2058.jpg) ![note2](https://user-images.githubusercontent.com/121479325/209921379-50b39c22-88ae-413f-8f01-5b2620a5833f.jpg) ![note3](https://user-images.githubusercontent.com/121479325/209921310-5d27e2bd-d48f-4eab-a273-e28996ad1f00.jpg)
 
 # CALCULATOR
 
-![calc1](https://user-images.githubusercontent.com/121479325/209918643-1d253295-73ac-44fb-83e4-6064fad2dbfd.jpg)
+![calc1](https://user-images.githubusercontent.com/121479325/209921430-5f48b2a5-0efc-463f-a9b2-61e1d88e4454.jpg)
 
 # HISTORY
 
-![history1](https://user-images.githubusercontent.com/121479325/209918672-1994df84-8175-4f8f-ac38-2273930b871b.jpg)
-
-![history2](https://user-images.githubusercontent.com/121479325/209918696-b04b3db9-bdeb-409a-91e1-440442defc3a.jpg)
+![history1](https://user-images.githubusercontent.com/121479325/209921460-1e826713-ff44-4199-b537-8428c877ecea.jpg) ![history2](https://user-images.githubusercontent.com/121479325/209921472-267b9d14-db6d-4d86-a526-00714ab427fd.jpg)
 
 # CLEAR AMOUNTS
 
-![clear1](https://user-images.githubusercontent.com/121479325/209918725-a25793be-5280-4445-8d8a-7faaf4232b3b.jpg)
-
+![clear1](https://user-images.githubusercontent.com/121479325/209921518-1070cec1-7f94-4047-a489-427986844521.jpg)
