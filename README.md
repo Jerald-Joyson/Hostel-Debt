@@ -25,11 +25,17 @@
 
 # SCREENSHOTS 
 
-![IstImg](https://user-images.githubusercontent.com/121479325/209921357-cb236ef3-8ada-4dd6-bac8-a3b81b84aa92.jpg) ![2ndImg](https://user-images.githubusercontent.com/121479325/209921340-d790f72a-38a1-47b7-90f3-1076b2e1805b.jpg)
+![IstImg](https://user-images.githubusercontent.com/121479325/209921357-cb236ef3-8ada-4dd6-bac8-a3b81b84aa92.jpg)
+
+![2ndImg](https://user-images.githubusercontent.com/121479325/209921340-d790f72a-38a1-47b7-90f3-1076b2e1805b.jpg)
 
 # NOTEPAD 
 
-![note1](https://user-images.githubusercontent.com/121479325/209921400-f417f1cf-c0c0-43c5-afbf-6788e08d2058.jpg) ![note2](https://user-images.githubusercontent.com/121479325/209921379-50b39c22-88ae-413f-8f01-5b2620a5833f.jpg) ![note3](https://user-images.githubusercontent.com/121479325/209921310-5d27e2bd-d48f-4eab-a273-e28996ad1f00.jpg)
+![note1](https://user-images.githubusercontent.com/121479325/209921400-f417f1cf-c0c0-43c5-afbf-6788e08d2058.jpg) 
+
+![note2](https://user-images.githubusercontent.com/121479325/209921379-50b39c22-88ae-413f-8f01-5b2620a5833f.jpg) 
+
+![note3](https://user-images.githubusercontent.com/121479325/209921310-5d27e2bd-d48f-4eab-a273-e28996ad1f00.jpg)
 
 # CALCULATOR
 
@@ -37,7 +43,9 @@
 
 # HISTORY
 
-![history1](https://user-images.githubusercontent.com/121479325/209921460-1e826713-ff44-4199-b537-8428c877ecea.jpg) ![history2](https://user-images.githubusercontent.com/121479325/209921472-267b9d14-db6d-4d86-a526-00714ab427fd.jpg)
+![history1](https://user-images.githubusercontent.com/121479325/209921460-1e826713-ff44-4199-b537-8428c877ecea.jpg) 
+
+![history2](https://user-images.githubusercontent.com/121479325/209921472-267b9d14-db6d-4d86-a526-00714ab427fd.jpg)
 
 # CLEAR AMOUNTS
 
