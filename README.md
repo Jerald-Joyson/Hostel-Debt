@@ -10,7 +10,7 @@
 # Steps
  * Install the app
  * click "SAVE DATA" button and allow permission to access the storage to save the txt file after completing your inserts and before closing the app you must click "SAVE DATA" button
- * And also you can change the name(Person1, Person2, person3, person4) in the string.xml file in values
+ * And also you can change the name(Person1, Person2, person3, person4) in the string.xml file
 
  The initial step is commpleted
 
