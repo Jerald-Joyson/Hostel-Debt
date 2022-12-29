@@ -27,8 +27,7 @@
 
 ![IstImg](https://user-images.githubusercontent.com/121479325/209917961-6af7fc7e-0ed7-456f-8180-6bbb7f55cf44.jpg)
 
-![2ndImg](https://user-images.githubusercontent.com/121479325/209920590-1abf0bea-7eed-45d6-be5d-2b5c08cfefa7.jpg)
-
+![2ndImg (2)](https://user-images.githubusercontent.com/121479325/209920927-d9df23ef-e260-47c9-a404-b61da85128e4.jpg)
 # NOTEPAD 
 
 ![note1](https://user-images.githubusercontent.com/121479325/209918605-ad1c590b-baeb-4597-8497-f7bb0c47eef5.jpg)
