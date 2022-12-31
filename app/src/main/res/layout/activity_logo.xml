@@ -4,12 +4,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".LogoActivity">
+    tools:context=".LogoActivity"
+    android:background="@color/colorLGold">
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:src="@drawable/hostel1"
-        android:background="@color/colorLGold"/>
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/colorLGold"
+        android:layout_marginTop="8mm"
+        android:src="@drawable/hostel1" />
 </LinearLayout>

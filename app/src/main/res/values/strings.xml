@@ -5,6 +5,8 @@
     <string name="col3">Person2:</string>
     <string name="col4">Person3:</string>
     <string name="col5">Person4:</string>
+    <string name="hed1"><u>Hostel Pattu Book</u></string>
+    <string name="reg1"><u> REGISTRATION </u></string>
     <string-array name="OS_name">
         <item>Check the box, If it is Sure.</item>
     </string-array>

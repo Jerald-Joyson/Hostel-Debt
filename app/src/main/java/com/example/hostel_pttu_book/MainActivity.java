@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
 
     EditText amtValue,adInd,asInd,baInd,jeInd;
     Button hist_button,note_button,clrButton,calcButton,btnPlsAmt,btnMinsAmt,adPlsBtn,asPlsBtn,adMinsBtn,asMinsBtn,baPlsBtn,jePlsBtn,baMinsBtn,jeMinsBtn;
-    TextView adAmt,asAmt,baAmt,jeAmt;
+    TextView adAmt,asAmt,baAmt,jeAmt,textViewP1,textViewP2,textViewP3,textViewP4,textViewPA1,textViewPA2,textViewPA3,textViewPA4;
 
     public static final String SHARED_PREFS = "sharedPrefs";
     public static final String adTEXT = "adText";
@@ -101,6 +101,31 @@ public class MainActivity extends AppCompatActivity {
         asAmt=(TextView) findViewById(R.id.asAmt);
         baAmt=(TextView) findViewById(R.id.baAmt);
         jeAmt=(TextView) findViewById(R.id.jeAmt);
+
+        textViewP1=(TextView) findViewById(R.id.textViewP1);
+        textViewP2=(TextView) findViewById(R.id.textViewP2);
+        textViewP3=(TextView) findViewById(R.id.textViewP3);
+        textViewP4=(TextView) findViewById(R.id.textViewP4);
+
+        textViewPA1=(TextView) findViewById(R.id.textViewPA1);
+        textViewPA2=(TextView) findViewById(R.id.textViewPA2);
+        textViewPA3=(TextView) findViewById(R.id.textViewPA3);
+        textViewPA4=(TextView) findViewById(R.id.textViewPA4);
+
+        SharedPreferences prefs1 = getSharedPreferences(Login.PREFS_NAME,0);
+        String p1Text=prefs1.getString("p1Text","no values");
+        String p2Text=prefs1.getString("p2Text","no values");
+        String p3Text=prefs1.getString("p3Text","no values");
+        String p4Text=prefs1.getString("p4Text","no values");
+
+        textViewP1.setText(p1Text);
+        textViewP2.setText(p2Text);
+        textViewP3.setText(p3Text);
+        textViewP4.setText(p4Text);
+        textViewPA1.setText(p1Text);
+        textViewPA2.setText(p2Text);
+        textViewPA3.setText(p3Text);
+        textViewPA4.setText(p4Text);
 
 
         adPlsBtn.setOnClickListener(new View.OnClickListener() {
