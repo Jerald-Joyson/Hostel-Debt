@@ -9,6 +9,10 @@
 
 # Steps
  * Install the app
+ * A registration window wll be open. 
+ * Enter the name of the 4 hostellers.
+ * once the registration is complete.we cannot change the name of the hostellers. 
+ * Then we can see the main window. 
  * click "SAVE DATA" button and allow permission to access the storage to save the txt file after completing your inserts and before closing the app you must click "SAVE DATA" button
  * And also you can change the name(Person1, Person2, person3, person4) in the string.xml file
 
@@ -25,7 +29,15 @@
 
 # SCREENSHOTS 
 
-![IstImg](https://user-images.githubusercontent.com/121479325/209921357-cb236ef3-8ada-4dd6-bac8-a3b81b84aa92.jpg)
+![frontImg1](https://user-images.githubusercontent.com/121479325/210134105-537ed752-6018-4bbf-9d01-fee52a930c2e.jpg)
+
+# REGISTRATION
+
+![reg1](https://user-images.githubusercontent.com/121479325/210134099-cfd239e7-ecae-4d32-bf3c-2e1e2a786a9c.jpg)
+
+![reg2](https://user-images.githubusercontent.com/121479325/210134095-68ba2ac3-e687-43da-822b-4bde88671984.jpg)
+
+![FrontImg](https://user-images.githubusercontent.com/121479325/210134088-70d1090d-809b-4258-9de9-b349124239fe.jpg)
 
 ![2ndImg](https://user-images.githubusercontent.com/121479325/209921340-d790f72a-38a1-47b7-90f3-1076b2e1805b.jpg)
 
