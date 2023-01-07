@@ -407,7 +407,7 @@ public class MainActivity extends AppCompatActivity {
         editor.putString(jeTEXT, jeAmt.getText().toString());
 
         Date currentTime = Calendar.getInstance().getTime();
-        DateFormat dateFormat = new SimpleDateFormat("E, dd-MMM-yyyy HH:mm:ss");
+        DateFormat dateFormat = new SimpleDateFormat("dd-MMM-yyyy HH:mm:ss");
         String strDate = dateFormat.format(currentTime);
         editor.putString(curdate, strDate);
 
