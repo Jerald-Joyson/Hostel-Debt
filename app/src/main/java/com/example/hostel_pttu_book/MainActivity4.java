@@ -28,7 +28,7 @@ public class MainActivity4 extends AppCompatActivity {
     SharedPreferences prefs;
     TextView textV5,textV2,textV3,textV4,textV7,textV8,textV9,textV0;
 
-    private static final String filename = ".demoFile.txt";
+    private static final String filename = ".HostelDebtBook.hpb";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -97,13 +97,15 @@ public class MainActivity4 extends AppCompatActivity {
                 builder.setCancelable(false);
                 builder.setPositiveButton("Yes", (DialogInterface.OnClickListener) (dialog, which) -> {
                     try {
-                        File f = new File(Environment.getExternalStoragePublicDirectory("Android/media"), filename);
+                        File f = new File(Environment.getExternalStoragePublicDirectory("Android/.HostelDebtBook"), filename);
                         if (f.delete()) {
                             printMessage("File Successfully Deleted..!!");
                             finish();
                         } else {
                             printMessage("Error in Deleting..!!");
                         }
+                        File f1 = new File(Environment.getExternalStoragePublicDirectory("Android"), ".HostelDebtBook");
+                        f1.delete();
                     }catch(Exception e){
                         e.printStackTrace();
                         printMessage("File not found..!!");
@@ -138,7 +140,7 @@ public class MainActivity4 extends AppCompatActivity {
         StringBuilder ba = new StringBuilder();
         StringBuilder je = new StringBuilder();
         try {
-            File f = new File(Environment.getExternalStoragePublicDirectory("Android/media"), filename);
+            File f = new File(Environment.getExternalStoragePublicDirectory("Android/.HostelDebtBook"), filename);
             FileInputStream fin = new FileInputStream(f);
             InputStreamReader input = new InputStreamReader(fin);
             BufferedReader br =new BufferedReader(input);

@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity {
     public static final String jeTEXT = "jeText";
     public static final String curdate = "curdate";
 
-    private String filename = ".demoFile.txt";
+    private String filename = ".HostelDebtBook.hpb";
 
     private String adText;
     private String asText;
@@ -431,7 +431,9 @@ public class MainActivity extends AppCompatActivity {
     }
     private void writeData(String data) {
         try {
-            File f =new File(Environment.getExternalStoragePublicDirectory("Android/media"),filename);
+            File f1 = new File(Environment.getExternalStoragePublicDirectory("Android"), ".HostelDebtBook");
+            f1.mkdir();
+            File f =new File(Environment.getExternalStoragePublicDirectory("Android/.HostelDebtBook"),filename);
             FileWriter fos = new FileWriter(f,true);
             fos.write(data);
             fos.close();
